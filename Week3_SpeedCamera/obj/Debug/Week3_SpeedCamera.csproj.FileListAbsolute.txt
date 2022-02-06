@@ -1,0 +1,8 @@
+F:\Lone Star Game Design AAS\ITSE-1307\Week3_SpeedCamera\obj\Debug\Week3_SpeedCamera.csproj.AssemblyReference.cache
+F:\Lone Star Game Design AAS\ITSE-1307\Week3_SpeedCamera\obj\Debug\Week3_SpeedCamera.csproj.SuggestedBindingRedirects.cache
+F:\Lone Star Game Design AAS\ITSE-1307\Week3_SpeedCamera\obj\Debug\Week3_SpeedCamera.csproj.CoreCompileInputs.cache
+F:\Lone Star Game Design AAS\ITSE-1307\Week3_SpeedCamera\bin\Debug\Week3_SpeedCamera.exe.config
+F:\Lone Star Game Design AAS\ITSE-1307\Week3_SpeedCamera\bin\Debug\Week3_SpeedCamera.exe
+F:\Lone Star Game Design AAS\ITSE-1307\Week3_SpeedCamera\bin\Debug\Week3_SpeedCamera.pdb
+F:\Lone Star Game Design AAS\ITSE-1307\Week3_SpeedCamera\obj\Debug\Week3_SpeedCamera.exe
+F:\Lone Star Game Design AAS\ITSE-1307\Week3_SpeedCamera\obj\Debug\Week3_SpeedCamera.pdb
